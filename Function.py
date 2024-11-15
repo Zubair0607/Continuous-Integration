@@ -12,5 +12,3 @@ def addition():
     add = num1 + num2
 
     print(str(num1) + " plus " + str(num2) + " is " + str(add))
-
-addition()
